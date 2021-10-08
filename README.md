@@ -1,2 +1,3 @@
-# repositorioG35
+# repositorioG35 Omarg
 Repositorio de prueba
+Creao OmarG
